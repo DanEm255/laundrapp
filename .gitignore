@@ -1,0 +1,9 @@
+# Include your project-specific ignores in this file
+# Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
+.cache-loader
+wp-content/themes/sage-theme/dist
+wp-content/themes/sage-theme/node_modules
+wp-content/themes/sage-theme/npm-debug.log
+wp-content/themes/sage-theme/yarn-error.log
+wp-content/themes/sage-theme/vendor
+wp-content/themes/sage-theme/resources/assets/config-local.json
